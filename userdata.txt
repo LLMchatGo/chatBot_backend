@@ -1,0 +1,23 @@
+Name: Priya Sharma
+Membership: Premium Fiber Plan
+Email: priya.sharma@email.com
+Phone: +91-9876543210
+Address: 22, Green Park, New Delhi, India
+Connection Type: Fiber 200 Mbps
+Router Model: TP-Link Archer AX23
+Active Since: 2023-02-14
+Billing Cycle: Monthly (Next Due: 2025-08-15)
+Last Bill Paid: ₹999 (July 2025)
+Recent Issues:
+  - #TCKT2025-101: Frequent disconnection (Resolved)
+  - #TCKT2025-125: Slow speed during evening (Open)
+Devices Connected: 6 (Laptop, Smart TV, Phone x3, Security Cam)
+Service Status: Active
+Outage Alerts: None in your area
+Support Tickets:
+  - Ticket ID: #TCKT2025-125
+    Issue: Slow speed in evening (Avg: 10 Mbps)
+    Status: Open
+  - Ticket ID: #TCKT2025-101
+    Issue: Frequent disconnections
+    Status: Resolved on 2025-06-20
